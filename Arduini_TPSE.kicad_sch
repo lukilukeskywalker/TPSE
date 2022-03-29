@@ -5,7 +5,9 @@
   (paper "A4")
 
   (title_block
-    (date "jeu. 02 avril 2015")
+    (title "Arduini TPSE")
+    (date "2022-03-30")
+    (rev "0.3")
   )
 
   (lib_symbols
